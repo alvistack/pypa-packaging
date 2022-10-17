@@ -39,7 +39,7 @@ with open(os.path.join(base_dir, "CHANGELOG.rst")) as f:
 
 setup(
     name=about["__title__"],
-    version=about["__version__"],
+    version="21.2",
     description=about["__summary__"],
     long_description=long_description,
     long_description_content_type="text/x-rst",
