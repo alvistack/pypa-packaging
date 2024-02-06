@@ -1,0 +1,5 @@
+python-packaging (100:24.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/packaging/releases/tag/24.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 11 Mar 2024 09:04:49 +0800
