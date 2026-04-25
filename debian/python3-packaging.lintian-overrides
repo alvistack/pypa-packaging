@@ -1,0 +1,4 @@
+python3-packaging: copyright-without-copyright-notice
+python3-packaging: initial-upload-closes-no-bugs
+python3-packaging: no-manual-page
+python3-packaging: zero-byte-file-in-doc-directory
